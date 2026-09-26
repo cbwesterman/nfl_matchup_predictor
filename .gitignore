@@ -1,1 +1,7 @@
-data/raw/*
+.venv/
+__pycache__/
+*.pyc
+data/raw/
+.env
+.DS_Store
+Thumbs.db
